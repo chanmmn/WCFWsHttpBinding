@@ -1,0 +1,7 @@
+C:\dev1\WCF\ConAppWCFClient\ConAppWCFClient\bin\Debug\ConAppWCFClient.exe.config
+C:\dev1\WCF\ConAppWCFClient\ConAppWCFClient\bin\Debug\ConAppWCFClient.exe
+C:\dev1\WCF\ConAppWCFClient\ConAppWCFClient\bin\Debug\ConAppWCFClient.pdb
+C:\dev1\WCF\ConAppWCFClient\ConAppWCFClient\obj\Debug\ConAppWCFClient.csprojAssemblyReference.cache
+C:\dev1\WCF\ConAppWCFClient\ConAppWCFClient\obj\Debug\ConAppWCFClient.csproj.CoreCompileInputs.cache
+C:\dev1\WCF\ConAppWCFClient\ConAppWCFClient\obj\Debug\ConAppWCFClient.exe
+C:\dev1\WCF\ConAppWCFClient\ConAppWCFClient\obj\Debug\ConAppWCFClient.pdb

@@ -1,0 +1,7 @@
+C:\dev1\WCF\WcfServiceWsHttpBinding\WcfServiceWsHttpBinding\bin\WcfServiceWsHttpBinding.dll.config
+C:\dev1\WCF\WcfServiceWsHttpBinding\WcfServiceWsHttpBinding\bin\WcfServiceWsHttpBinding.dll
+C:\dev1\WCF\WcfServiceWsHttpBinding\WcfServiceWsHttpBinding\bin\WcfServiceWsHttpBinding.pdb
+C:\dev1\WCF\WcfServiceWsHttpBinding\WcfServiceWsHttpBinding\obj\Debug\WcfServiceWsHttpBinding.csprojAssemblyReference.cache
+C:\dev1\WCF\WcfServiceWsHttpBinding\WcfServiceWsHttpBinding\obj\Debug\WcfServiceWsHttpBinding.csproj.CoreCompileInputs.cache
+C:\dev1\WCF\WcfServiceWsHttpBinding\WcfServiceWsHttpBinding\obj\Debug\WcfServiceWsHttpBinding.dll
+C:\dev1\WCF\WcfServiceWsHttpBinding\WcfServiceWsHttpBinding\obj\Debug\WcfServiceWsHttpBinding.pdb
